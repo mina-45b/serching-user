@@ -1,5 +1,7 @@
 # Searching User
 
+![Imagen de demostracion](assets/demo.png)
+
 Proyecto realizado para practicar el consumo de APIs utilizando `fetch()` en JavaScript.
 
 La aplicación permite introducir el ID de un usuario y obtener sus datos desde la API [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
